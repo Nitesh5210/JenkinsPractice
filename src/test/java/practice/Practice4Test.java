@@ -6,8 +6,8 @@ import org.testng.annotations.Test;
 public class Practice4Test {
 	
 	@Test
-	public void practice1() {
-		Reporter.log("Practice 3 " , true);
+	public void practice3() {
+		Reporter.log("Practice 4 " , true);
 	}
 
 }
